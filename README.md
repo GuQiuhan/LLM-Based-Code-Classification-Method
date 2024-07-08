@@ -2,7 +2,7 @@
 
 **Qiuhan Gu**
 
-> This is my BS dissertation. 😊
+> This is my BS dissertation. :)
 
 ![image-20240706234333298](images/image-20240706234333298.png)
 
@@ -48,4 +48,4 @@ The experimental results show that the classification model implemented in this 
 
 #### 3. use the model directly
 
-* Enter the `/cluster_go` folder, all the model-related files are saved here. I will upload it to the hugging face later.😊
+* Enter the `/cluster_go` folder, all the model-related files are saved here. 
