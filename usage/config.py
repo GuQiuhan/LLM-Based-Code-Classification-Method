@@ -1,0 +1,14 @@
+VOCAB_SIZE = None # The vocabulary size of Word2Vec, None for no limit.
+MIN_COUNT = 3 # Ignores all words with total frequency lower than this.
+EMBEDDING_SIZE = 128 # Embedding size of the word vectors.
+RATIO = "3:1:1" # The ratio for spliting dataset into training, validation, and testing respectively.
+HIDDEN_DIM = 100 # The hidden dimension of the ST-Tree encoder.
+ENCODE_DIM = 128 # The hidden dimension of the BiGRU encoder.
+LABELS = 2 # The number of the classes for the output.
+EPOCHS = 15
+BATCH_SIZE = 1
+USE_GPU = True
+INPUT_FILE= "original_code.json" # filename for the original data
+DATA_ROOT="data/" # root for the data
+W2V_EPOCH=30 # epochs of training word2vec
+DECODE_HIDDEN_DIM = 64 # The hidden dimension of the decoder.

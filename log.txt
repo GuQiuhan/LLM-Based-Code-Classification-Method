@@ -1,0 +1,16 @@
+Start training...
+[Epoch:   1/ 15] Training Loss: 0.0644, Training Acc: 0.980, Time Cost: 1171.002 s
+[Epoch:   2/ 15] Training Loss: 0.0050, Training Acc: 0.999, Time Cost: 1245.201 s
+[Epoch:   3/ 15] Training Loss: 0.0020, Training Acc: 0.999, Time Cost: 1177.665 s
+[Epoch:   4/ 15] Training Loss: 0.0007, Training Acc: 1.000, Time Cost: 1249.181 s
+[Epoch:   5/ 15] Training Loss: 0.0003, Training Acc: 1.000, Time Cost: 1176.189 s
+[Epoch:   6/ 15] Training Loss: 0.0002, Training Acc: 1.000, Time Cost: 1240.217 s
+[Epoch:   7/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1177.983 s
+[Epoch:   8/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1260.809 s
+[Epoch:   9/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1173.723 s
+[Epoch:  10/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1223.291 s
+[Epoch:  11/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1227.065 s
+[Epoch:  12/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1175.944 s
+[Epoch:  13/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1246.546 s
+[Epoch:  14/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1174.600 s
+[Epoch:  15/ 15] Training Loss: 0.0000, Training Acc: 1.000, Time Cost: 1224.994 s
